@@ -12,7 +12,7 @@ counter_pda = "JCmHRfx897eap7kkkDiQUHj9aNu6HJmVFqKZANMMQzwb"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "Devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
